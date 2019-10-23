@@ -9,18 +9,17 @@ header img {
 	float: left;
 }
 
-/* this ruleset makes me nauseous*/
 .shadow{
-	text-shadow: 2px 2px #800000;
+	text-shadow: 1px 1px #800000;
 }
 
-body h2{
+header h2{
 	font-size: 170%;
 	color: #800000;
 	text-indent: 30px;
 }
 
-body h3{
+header h3{
 	font-size: 130%;
 	font-style: italic;
 	text-indent: 30px;
